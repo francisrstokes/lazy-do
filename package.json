@@ -1,0 +1,11 @@
+{
+  "name": "lazy-do",
+  "version": "0.0.1",
+  "description": "Fantasy Land compliant do notation for lazy structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Stokes / Aldwin Vlasblom",
+  "license": "MIT"
+}
